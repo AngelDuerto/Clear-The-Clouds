@@ -155,6 +155,7 @@ ul li a:hover {
   cursor: pointer;
 }
 footer {
+  background-color: lightblue;
 }
 .footerContainer {
   width: 100%;
